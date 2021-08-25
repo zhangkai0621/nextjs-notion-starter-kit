@@ -12,18 +12,18 @@ module.exports = {
   author: '小凯同学',
 
   // open graph metadata (optional)
-  description: '',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '知识的奇点',
+  socialImageTitle: '',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: '',
   github: 'zhangkai0621',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://xiniao-stg-upload.oss-accelerate.aliyuncs.com/backend/image/2021-06-24/P7U64/zhangkai.jpg',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
